@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Website Design/Development :",
+        "hname": "Crafting visually stunning and highly functional websites that reflect your brand identity and engage your target audience.",
+        "icon": "https://img.icons8.com/?size=100&id=49407&format=png&color=000000"
+    },
+   
+    {
+        "name": "Hosting/Security Services:",
+        "hname": "Providing reliable hosting solutions and robust security measures to ensure your online platforms are fast, secure, and always accessible.",
+
+        "icon": "https://img.icons8.com/?size=100&id=E8vaN3QfxXgL&format=png&color=000000"
+    },
+  
+    {
+        "name": "Social Media Management:",
+        "hname": "Strategizing and managing your social media presence to build brand awareness, foster engagement, and drive conversions.",
+
+        "icon": "https://img.icons8.com/?size=100&id=IqO8sjenu7je&format=png&color=000000"
+    },
+    {
+        "name": "App Design/Development",
+        "hname": "Creating intuitive and feature-rich mobile applications to enhance user experience and drive business growth.",
+
+        "icon": "https://img.icons8.com/?size=100&id=7LdrWHQN45qj&format=png&color=000000"
+    } ,  
+    {
+        "name": "Graphic Designer/Development :",
+        "hname": "Designing visually appealing graphics and visuals that capture your brand's essence and communicate your message effectively.",
+
+        "icon": "https://img.icons8.com/?size=100&id=dPeH2Q9UgE5G&format=png&color=000000"
+    }
+]

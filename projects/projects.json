@@ -1,0 +1,56 @@
+[
+  
+  {
+    "name": "HANG MAN ",
+    "desc": "Full-Stack Hangman is a  game involves one player thinking of a word and the other player trying to guess it by suggesting letters.",
+    "image": "hang",
+    "category": "mern",
+    "links": {
+      "view": "https://hangman-byadamaghzaf.netlify.app/",
+      "code": "https://github.com/adamaghzad/Hangman"
+    }
+  },
+  {
+    "name": "birthday party or celebration",
+    "desc": "Full-Stack birthday party or celebration ,With Html css js ,Ready to use fro Fun ",
+    "image": "happy",
+    "category": "mern",
+    "links": {
+      "view": "https://beamish-mandazi-aae370.netlify.app/",
+      "code": "https://github.com/adamaghzad/youss"
+    }
+  },
+  {
+    "name": "CALCULATOR",
+    "desc": "This is a calculator script developed using HTML, CSS, and JavaScript. It provides basic arithmetic operations with a user-friendly interface. .",
+    "image": "cal",
+    "category": "mern",
+    "links": {
+      "view": "https://calculater-byadamaghzaf.netlify.app/",
+      "code": "https://github.com/adamaghzad/calculater/tree/main"
+    }
+  },
+  
+  {
+    "name": "crypto-admin-dashboard",
+    "desc": "tnis web site crypto dashbord template made withe html css .",
+    "image": "IMG_20240108_100625_598 (2)",
+    "category": "basicweb",
+    "links": {
+      "view": "https://adam-crypto-admin-dashboard.netlify.app/",
+      "code": "https://github.com/adamaghzad/dash"
+    }
+  },
+   {
+    "name": "login-signup-php-mysql",
+    "desc": "Login Signup page in PHP with MySQL Database . ",
+    "image": "sing",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/adamaghzad/done"
+    }
+  }
+  
+ 
+]
